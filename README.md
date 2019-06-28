@@ -1,6 +1,6 @@
 # Flutter Finance App
 
-[![N|Solid](https://i.imgur.com/glDcmhL.png)]
+![N|Solid](https://i.imgur.com/glDcmhL.png)
 
 Finance app is a cloud-enabled, mobile-ready powered flutter application.
 # Features!
